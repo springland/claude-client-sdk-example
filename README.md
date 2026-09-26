@@ -13,3 +13,7 @@ configuration file is under profiles/
 
 API key is retrieved from windows credential manager
 
+
+### Deepseek
+deepseek does not support everything from claude api
+[deepseek compatibility](https://api-docs.deepseek.com/guides/anthropic_api/)
