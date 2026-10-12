@@ -1,2 +1,4 @@
 anthropic
 jupyter
+mcp[cli]
+httpx2
