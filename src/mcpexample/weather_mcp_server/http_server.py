@@ -8,4 +8,4 @@ if __package__ in (None, ""):
 from mcpexample.weather_mcp_server.weather import mcp
 
 if __name__ == "__main__":
-    mcp.run(transport="streamable-http", host="0.0.0.0", port=8888)
+    mcp.run(transport="streamable-http", host="0.0.0.0", port=8000)
